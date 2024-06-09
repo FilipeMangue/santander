@@ -13,3 +13,7 @@ Sintaxe: git push origin main
 ## Comando git PULL
 Utilizado para permitir que as alterações no repositório remoto sejam guardadas localmente.
 Sintaxe: git pull origin main
+
+## Comando git FETCH
+Utilizado para verificar as alterações no repositório remoto e local antes de sejam guardadas.
+Sintaxe: git fetch + git diff origin main/master
