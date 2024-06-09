@@ -9,3 +9,7 @@ cd caminho-pasta para aceder a pasta e depois para clonar o projecto/respositori
 ## Comando git PUSH
 Utilizado para permitir que as alterações no repositório local sejam guardadas remotamente.
 Sintaxe: git push origin main
+
+## Comando git PULL
+Utilizado para permitir que as alterações no repositório remoto sejam guardadas localmente.
+Sintaxe: git pull origin main
