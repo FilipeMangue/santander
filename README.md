@@ -23,6 +23,10 @@ Sintaxe: git fetch + git diff origin main/master
 
 ## 2. Módulo de Redes e Sistemas
 
-O  que sao redes? R: Conjunto de doi ou mais dispositivos electronicos conectados entre si que trocam informacoes por meio  de uma linguagem pre-estabelecida chamada protocolo.
+O que são redes? R: Um conjunto de dois ou mais dispositivos electrónicos ligados entre si que trocam informações utilizando uma linguagem pré-estabelecida designada por protocolo.
 
-Ocorre de 2 formas: Fisica - via cabos de par trnacado. Coaxial 
+Isto acontece de duas formas: 
+Fisicamente - através de cabos de pares entrelaçados. 
+Sem fios/wireless - através de radiofrequência, bluetooth ou infravermelhos.
+
+Origens: DARPA e ARPANET
