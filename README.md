@@ -33,16 +33,16 @@ Origens: DARPA e ARPANET
 
 ## Estrutura de Redes e o Principais Equipamentos
 
-NIC (Netowrk Interface Card) - palaca de rede como e mais conhecido, e o dispositivo responsavel pro permitir a conexao do computador com  cabo de rede ethernet ou por receber as ondas de radio frequencia das conexoes wireless.
+A placa de rede (NIC - Network Interface Card), como é mais conhecida, é o dispositivo responsável por permitir a ligação do computador com um cabo ethernet ou por receber ondas de radiofrequência para ligações sem fios.
 
-Tem dois enderecos. Fisicos e Logicos
-* Hub - e um hardware que permite conexao entre dispositivos atraves de cabos de par trancados e conectados entre si. 
+Ela possui dois endereços. Físico e Lógico
+* Hub - é uma peça de hardware que permite a ligação de dispositivos através de cabos de par trançado. 
 
-* Switch - responsavel pela comutacao dos quadros entre os dispositivos , podemos definir comutacao como troca ou encaminhamento de informacao.
+* Switch - responsável pela comutação de quadros entre dispositivos, podemos definir comutação como troca ou encaminhamento de informações.
 
-* Roteador - tem a responabilidade de procurar as melhores rotas na internet para entregar os pacotes do remetente ao destinatario no menor tempo possivel.
+* Router - responsável por encontrar as melhores rotas na Internet para entregar os pacotes do remetente ao destinatário no menor tempo possível.
 
-* Modem - responsavel pela modulacao e demodulacao de sinal de internet.
+* Modem - responsável pela modulação e desmodulação do sinal de Internet.
 
 ## Cabeamento Estruturado
 
